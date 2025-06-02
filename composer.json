@@ -1,0 +1,6 @@
+{
+    "name": "ferremas/webpay",
+    "require": {
+        "transbank/transbank-sdk": "^5.0"
+    }
+}
